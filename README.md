@@ -141,9 +141,6 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <td width="60%" align="center">
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true"/>  
-<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false"/>  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniloalvarado&theme=dark&hide_border=false)
-
 
 </td>
 
