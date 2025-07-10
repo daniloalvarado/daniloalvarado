@@ -141,14 +141,28 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <td width="60%" align="center">
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true"/>  
+<p align="center">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloalvarado&theme=tokyonight&show_icons=true&count_private=true"/>
+  <!-- Racha de contribución -->
+  <img src="https://streak-stats.demolab.com/?user=daniloalvarado&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Stats generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=daniloalvarado&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 </td>
 
 <td width="40%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloalvarado&theme=tokyonight&show_icons=true&count_private=true"/>
 
   </td>
 </tr>
