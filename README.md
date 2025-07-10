@@ -7,10 +7,8 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 </p>
 
 <!------------SOBRE MI-------------->
-# Sobre mí 😃
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h2>Sobre mí 😃</h2>
 <!--Intro start-->
-
 <p align="left">
 🎓 INGENIERO EN INFORMÁTICA
 
@@ -23,7 +21,7 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
   </p>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!------------END SOBRE MI-------------->
 
 <!------------TECNOLOGÍAS CONOCIDAS-------------->
