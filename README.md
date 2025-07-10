@@ -7,7 +7,7 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 </p>
 
 <!------------SOBRE MI-------------->
-<h2>Sobre mi 😃</h2>
+<b>Sobre mi 😃</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--Intro start-->
 
