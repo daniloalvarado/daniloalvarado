@@ -140,7 +140,6 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <tr border="none">
 <td width="60%" align="center">
 
-ESTO
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> 
   
@@ -169,7 +168,7 @@ ESTO
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------ REPOSITORIO-------------->
-<h2>Mi Repositorio </h2>
+<h2>Mi Repositorio 📂</h2>
 	
 <div>
   <p align="center">
