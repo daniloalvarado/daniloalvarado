@@ -1,10 +1,12 @@
-<h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  soy Danilo ✨ </h1> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
+
+<!------------SOBRE MI-------------->
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
@@ -21,7 +23,10 @@
 <!--Intro end-->
   </p>
 <br>
+<!------------END SOBRE MI-------------->
 
+<!------------TECNOLOGÍAS CONOCIDAS-------------->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -30,8 +35,11 @@
   </a>
 </p>
 <br>
-<!-------------------------->
+<!------------END TECNOLOGÍAS CONOCIDAS-------------->
+
+<!------------PROYECTOS-------------->
 <div id="proyectos">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left" >
