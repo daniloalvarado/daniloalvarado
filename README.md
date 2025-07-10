@@ -1,6 +1,6 @@
 <!------------TÍTULO-------------->
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-HOLA SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <!------------END TÍTULO-------------->
 
 <!------------GIFT-------------->
@@ -168,9 +168,7 @@ ESTO
 
 
 <!------------ REPOSITORIO-------------->
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
+<h3>My Repositories </h3>
 	
 <div>
   <p align="center">
@@ -236,7 +234,6 @@ ESTO
     	</a>
   </p>
 </div>
-</details>
 <!------------END REPOSITORIO-------------->
 
 <!------------SNAKE-------------->
