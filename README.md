@@ -22,6 +22,8 @@ Sobre mí 😃</h2>
 🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS TECNOLOGÍAS Ý FRAMEWORKS <br>
     
 📫 Contacto: **unsimpledev@gmail.com**
+
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <!--Intro end-->
   </p>
 <!------------END SOBRE MI-------------->
