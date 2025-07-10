@@ -2,12 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/DaniloAlvarado">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=DANILO+ALVARADO;INGENIERO+DE+SISTEMAS+E+INFORMÁTICA;DESARROLLADOR+FULL+STACK;AUTODIDACTA+(SOBRE+TECNOLOGIA+Y+PROGRAMACION)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=DANILO+ALVARADO;INGENIERO+DE+SISTEMAS+E+INFORMÁTICA;DESARROLLADOR+FULL+STACK;AUTODIDACTA+EN+PROGRAMACIÓN+Y+NUEVAS+TECNOLOGÍAS">
   </a>
 </p>
-
-
-<br>
 
 <!------------SOBRE MI-------------->
 <h2>Sobre mi 😃</h2>
