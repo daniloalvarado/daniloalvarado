@@ -166,9 +166,10 @@ ESTO
 </p>        
 <!------------GITHUB METRICS-------------->
 
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------ REPOSITORIO-------------->
-<h3>My Repositories </h3>
+<h2>Mi Repositorio </h2>
 	
 <div>
   <p align="center">
@@ -235,6 +236,8 @@ ESTO
   </p>
 </div>
 <!------------END REPOSITORIO-------------->
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------SNAKE-------------->
 <p align = "left">
