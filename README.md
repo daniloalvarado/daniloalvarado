@@ -27,12 +27,8 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <!------------END SOBRE MI-------------->
 
 <!------------TECNOLOGÍAS CONOCIDAS-------------->
-<div style="display: flex; align-items: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 8px;">
-  <h2 style="margin: 0;">Tecnologías conocidas 👨🏻‍💻</h2>
-</div>
-
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Tecnologías conocidas</b>
+<br>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
