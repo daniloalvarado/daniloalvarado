@@ -1,10 +1,15 @@
+<!------------TÍTULO-------------->
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<!------------END TÍTULO-------------->
 
+<!------------GIFT-------------->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=INGENIERO+DE+SISTEMAS+E+INFORMÁTICA;DESARROLLADOR+FULL+STACK;AUTODIDACTA+EN+PROGRAMACIÓN+Y+NUEVAS+TECNOLOGÍAS">
 </p>
+<!------------END GIFT-------------->
 
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!------------SOBRE MI-------------->
 <h2>Sobre mí 😃</h2>
 <!--Intro start-->
