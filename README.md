@@ -18,14 +18,12 @@ Sobre mí 😃</h2>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!--Intro start-->
-<br><br><br>	
+<br><br>	
 <p align="left">
 🎓 INGENIERO EN SISTEMAS E INFORMÁTICA <br>    
 🔥 DESARROLLADO WEB FULLSTACK (FRONTEND & BACKEND) <br>
 💡 ME ENCANTA TRABAJAR CON TECNOLOGÍAS WEB MODERNAS <br>
 🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS TECNOLOGÍAS Ý FRAMEWORKS <br>
-    
-📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
   </p>
 <!------------END SOBRE MI-------------->
