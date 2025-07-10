@@ -11,13 +11,14 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!------------SOBRE MI-------------->
-<h2>Sobre mí 😃</h2>
+<h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="25">
+Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
-🎓 INGENIERO EN SISTEMAS E INFORMÁTICA
-🔥 DESARROLLADO WEB FULLSTACK (FRONTEND & BACKEND)
-💡 ME ENCANTA TRABAJAR CON TECNOLOGÍAS WEB MODERNAS
-🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS TECNOLOGÍAS Ý FRAMEWORKS
+🎓 INGENIERO EN SISTEMAS E INFORMÁTICA <br>    
+🔥 DESARROLLADO WEB FULLSTACK (FRONTEND & BACKEND) <br>
+💡 ME ENCANTA TRABAJAR CON TECNOLOGÍAS WEB MODERNAS <br>
+🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS TECNOLOGÍAS Ý FRAMEWORKS <br>
     
 📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
@@ -27,7 +28,8 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------TECNOLOGÍAS CONOCIDAS-------------->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías conocidas</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
+Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
