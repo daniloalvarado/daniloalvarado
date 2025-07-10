@@ -10,6 +10,7 @@ HOLA SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <!------------END GIFT-------------->
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <!------------SOBRE MI-------------->
 <h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-2-accessibility-hover-accesibility.gif" width="35">
 Sobre mí 😃</h2>
@@ -125,6 +126,8 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <br><br>
 <!------------END PROYECTOS-------------->
 
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <!------------GITHUB METRICS-------------->
 <h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-10-analytics-hover-analytics.gif" width="35"> GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
@@ -134,8 +137,10 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <tr border="none">
 <td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
+ESTO
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> 
+  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
 </td>
 
