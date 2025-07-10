@@ -118,12 +118,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
   
 </tr>
 </table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+</div>
 <!------------END PROYECTOS-------------->
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -140,7 +135,6 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
  <!-- Stats generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=daniloalvarado&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <!-- Racha de contribución -->
-  <img src="https://streak-stats.demolab.com/?user=daniloalvarado&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   
 </td>
 
