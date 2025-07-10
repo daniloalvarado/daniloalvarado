@@ -28,7 +28,7 @@ Sobre mí 😃</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------TECNOLOGÍAS CONOCIDAS-------------->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
+<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-34-code-hover-code.gif" width ="35"> 
 Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
