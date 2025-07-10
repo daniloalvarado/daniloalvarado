@@ -1,6 +1,6 @@
 <!------------TÍTULO-------------->
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+HOLA SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <!------------END TÍTULO-------------->
 
 <!------------GIFT-------------->
@@ -41,7 +41,7 @@ Tecnologías conocidas</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------PROYECTOS-------------->
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Proyectos</h2>
+<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-44-folder-hover-folder.gif" width="35"> Proyectos</h2>
 <div id="proyectos">
 <table align="left" >
 <tr border="none">
