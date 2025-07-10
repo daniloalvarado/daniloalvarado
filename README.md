@@ -38,7 +38,7 @@
 
 <!------------PROYECTOS-------------->
 <div id="proyectos">
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Proyectos</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos</b>
 
 <table align="left" >
 <tr border="none">
