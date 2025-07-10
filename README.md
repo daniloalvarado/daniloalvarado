@@ -32,7 +32,8 @@ Sobre mí 😃</h2>
 Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-    
+
+<!-- Lenguajes -->    
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,6 +42,25 @@ Tecnologías conocidas👨🏻‍💻</h2>
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+<!-- Frameworks y librerías -->
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+<!-- Bases de datos -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+ <!-- Herramientas -->
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
 </p>
 <!------------END TECNOLOGÍAS CONOCIDAS-------------->
@@ -103,9 +123,10 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <br>
 <br><br><br>
 <br><br>
+<!------------END PROYECTOS-------------->
 
-
-<h2>GitHub :octocat:</h2>
+<!------------GITHUB METRICS-------------->
+<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-10-analytics-hover-analytics.gif" width="35"> GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -137,4 +158,4 @@ Tecnologías conocidas👨🏻‍💻</h2>
 
 
 </p>        
-<!--- stats (end) -->
+<!------------GITHUB METRICS-------------->
