@@ -14,14 +14,11 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <h2>Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
+🎓 INGENIERO EN SISTEMAS E INFORMÁTICA
+🔥 DESARROLLADO WEB FULLSTACK (FRONTEND & BACKEND)
+💡 ME ENCANTA TRABAJAR CON TECNOLOGÍAS WEB MODERNAS
+🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS TECNOLOGÍAS Ý FRAMEWORKS
+    
 📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
   </p>
