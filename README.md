@@ -14,6 +14,9 @@ HOLA SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <!------------SOBRE MI-------------->
 <h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-2-accessibility-hover-accesibility.gif" width="35">
 Sobre mí 😃</h2>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <!--Intro start-->
 <p align="left">
 🎓 INGENIERO EN SISTEMAS E INFORMÁTICA <br>    
@@ -163,6 +166,8 @@ ESTO
 </p>        
 <!------------GITHUB METRICS-------------->
 
-<p align = "center">
+<!------------SNAKE-------------->
+<p align = "left">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
+<!------------END SNAKE-------------->
