@@ -141,9 +141,9 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <td width="60%" align="center">
 
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> 
+  <br> 
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
@@ -239,7 +239,7 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------SNAKE-------------->
-<p align = "left">
+<p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
 <!------------END SNAKE-------------->
