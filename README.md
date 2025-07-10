@@ -12,8 +12,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------SOBRE MI-------------->
-<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-2-accessibility-hover-accesibility.gif" width="35">
-Sobre mí 😃</h2>
+<h2>🟢 Sobre mí 😃</h2>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -31,8 +30,7 @@ Sobre mí 😃</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------TECNOLOGÍAS CONOCIDAS-------------->
-<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-34-code-hover-code.gif" width ="35"> 
-Tecnologías conocidas👨🏻‍💻</h2>
+<h2>🟢 Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
 
@@ -71,7 +69,7 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------PROYECTOS-------------->
-<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-44-folder-hover-folder.gif" width="35"> Proyectos🚀</h2>
+<h2>🟢 Proyectos🚀</h2>
 <div id="proyectos">
 <table align="left" >
 <tr border="none">
@@ -131,7 +129,7 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------GITHUB METRICS-------------->
-<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-10-analytics-hover-analytics.gif" width="35"> GitHub :octocat:</h2>
+<h2>🟢 GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -169,7 +167,7 @@ Tecnologías conocidas👨🏻‍💻</h2>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------ REPOSITORIO-------------->
-<h2>Mi Repositorio 📂</h2>
+<h2>🟢 Mi Repositorio 📂</h2>
 	
 <div>
   <p align="center">
