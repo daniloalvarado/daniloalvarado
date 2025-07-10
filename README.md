@@ -11,7 +11,7 @@ Hola soy Danilo Alvarado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!------------SOBRE MI-------------->
-<h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="25">
+<h2><img src="https://github.com/daniloalvarado/Assets/blob/main/GIFs/system-regular-2-accessibility-hover-accesibility.gif" width="25">
 Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
