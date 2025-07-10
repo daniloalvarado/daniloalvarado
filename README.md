@@ -32,9 +32,16 @@ Sobre mí 😃</h2>
 Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
+    
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 </p>
 <!------------END TECNOLOGÍAS CONOCIDAS-------------->
 
