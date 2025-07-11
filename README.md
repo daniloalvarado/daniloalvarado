@@ -16,9 +16,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 <!------------SOBRE MI-------------->
 <h2>🟢 Sobre mí 😃</h2>
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <!--Intro start-->
 <br>	
 <p align="left">
