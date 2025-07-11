@@ -23,7 +23,14 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 🔥 DESARROLLADOR WEB FULLSTACK (FRONTEND & BACKEND) <br>
 💡 ME ENCANTA TRABAJAR CON TECNOLOGÍAS WEB MODERNAS <br>
 🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS HERRAMIENTAS Y FRAMEWORKS <br>
-🗣️ IDIOMAS: ESPAÑOL NATIVO · INGLÉS TÉCNICO INTERMEDIO	
+🗣️ IDIOMAS: ESPAÑOL NATIVO · INGLÉS TÉCNICO INTERMEDIO	<br>
+
+ <a href="https://wa.me/51912345678" target="_blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234983132-d3c61a5c-037f-4e7c-808c-14a1a4b8a1a1.png" alt="whatsapp" height="50" width="50" />
+</a>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
 <!--Intro end-->
   </p>
 <!------------END SOBRE MI-------------->
