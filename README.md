@@ -5,7 +5,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 <!------------GIFT-------------->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=INGENIERO+DE+SISTEMAS+E+INFORMÁTICA;DESARROLLADOR+FULL+STACK;AUTODIDACTA+EN+PROGRAMACIÓN+Y+NUEVAS+TECNOLOGÍAS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=INGENIERO+DE+SISTEMAS+E+INFORMÁTICA;DESARROLLADOR+FULL+STACK;AUTODIDACTA">
 </p>
 <!------------END GIFT-------------->
 
@@ -21,16 +21,13 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <p align="left">
 🎓 INGENIERO DE SISTEMAS E INFORMÁTICA <br>    
 🔥 DESARROLLADOR WEB FULLSTACK (FRONTEND & BACKEND) <br>
-💡 ME ENCANTA TRABAJAR CON TECNOLOGÍAS WEB MODERNAS <br>
 🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS HERRAMIENTAS Y FRAMEWORKS <br>
 🗣️ IDIOMAS: ESPAÑOL NATIVO · INGLÉS TÉCNICO INTERMEDIO	<br>
 
- <a href="https://wa.me/51912345678" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234983132-d3c61a5c-037f-4e7c-808c-14a1a4b8a1a1.png" alt="whatsapp" height="50" width="50" />
-</a>
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
+
 <!--Intro end-->
   </p>
 <!------------END SOBRE MI-------------->
