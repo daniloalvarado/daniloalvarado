@@ -31,7 +31,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:daniloalvarado2002@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-alvarado/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51986158285)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51953808566)
 
 <!--Intro end-->
   </p>
