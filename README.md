@@ -29,9 +29,9 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 🛠️ SIEMPRE EXPERIMENTANDO CON NUEVAS HERRAMIENTAS Y FRAMEWORKS <br>
 🗣️ IDIOMAS: ESPAÑOL NATIVO · INGLÉS TÉCNICO INTERMEDIO	<br>
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51953808566)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=daniloalvarado2002@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-alvarado/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51953808566)
 
 <!--Intro end-->
   </p>
