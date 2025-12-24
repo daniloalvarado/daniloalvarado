@@ -93,8 +93,6 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <!------------GITHUB METRICS-------------->
 <h2 align="center">📊 Métricas de GitHub</h2>
 
-<h2 align="center">📊 GitHub Metrics</h2>
-
 <table align="center">
   <tr>
     <!-- 1A: Lenguajes más usados -->
