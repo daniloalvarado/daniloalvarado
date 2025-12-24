@@ -91,6 +91,32 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------GITHUB METRICS-------------->
+<div style="text-align: center; margin-top: 50px;">
+
+  <h2>📊 GitHub Metrics</h2>
+
+  <!-- Stats generales -->
+  <img 
+    src="https://github-readme-stats-six-iota-32.vercel.app/api?username=daniloalvarado&show_icons=true&theme=tokyonight"
+    alt="Estadísticas de GitHub de Danilo"
+    style="max-width: 100%; margin: 10px 0;"
+  />
+
+  <!-- Lenguajes más usados -->
+  <img 
+    src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
+    alt="Lenguajes más usados"
+    style="max-width: 100%; margin: 10px 0;"
+  />
+
+  <!-- Racha -->
+  <img 
+    src="https://streak-stats.demolab.com?user=daniloalvarado&theme=tokyonight&hide_border=true"
+    alt="Racha de contribuciones"
+    style="max-width: 100%; margin: 10px 0;"
+  />
+
+</div>
 
 <!------------ END GITHUB METRICS-------------->
 
