@@ -103,7 +103,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
         width="400px"
       />
       <br><br>
-       <!-- Repos por lenguaje -->
+      <!-- Repos por lenguaje -->
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
         width="400px"
