@@ -103,19 +103,19 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
         width="400px"
       />
       <br><br>
-      <!-- Repos por lenguaje -->
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
-        width="400px"
-      />
-    </td>
-    <!-- Columna 2 -->
-    <td align="center">
+		<td align="center">
       <!-- Racha -->
       <img 
         src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true" 
         width="400px"
       />
+    <!-- Columna 2 -->
+		<!-- Repos por lenguaje -->
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
+        width="400px"
+      />
+    </td>
       <br><br>
       <!-- Activity Graph -->
       <img 
