@@ -93,6 +93,11 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <!------------GITHUB METRICS-------------->
 <h2 align="center">📊 Métricas de GitHub</h2>
 
+<img 
+  src="https://metrics.lecoq.io/daniloalvarado?template=classic&config.timezone=America%2FLima&languages=1&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories&config.locale=es" 
+/>
+
+
 <table align="center">
   <tr>
     <td align="center">
