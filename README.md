@@ -91,46 +91,45 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------GITHUB METRICS-------------->
-<h2 align="center">📊 GitHub Metrics</h2>
+<h2 align="center">📊 Métricas de GitHub</h2>
 
 <table align="center">
   <tr>
-    <!-- 1A: Lenguajes más usados -->
     <td align="center">
+      <!-- Lenguajes Más Usados (en español dentro) -->
       <img 
-        src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
+        src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs?username=daniloalvarado&layout=compact&title=Lenguajes%20Más%20Usados&theme=tokyonight"
         width="400px"
       />
     </td>
-    <!-- 1B: Repos por lenguaje -->
     <td align="center">
+      <!-- Repos por Lenguaje (en español dentro) -->
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&title=Repos%20por%20Lenguaje&theme=tokyonight"
         width="400px"
       />
     </td>
   </tr>
 
   <tr>
-    <!-- 2A: Racha -->
     <td align="center">
+      <!-- Racha con título en español -->
       <img 
-        src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true"
+        src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true&title=Racha%20de%20Contribuciones"
         width="400px"
       />
     </td>
-    <!-- 2B: Activity Graph -->
     <td align="center">
+      <!-- Activity Graph con título en español -->
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=daniloalvarado&theme=tokyonight"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=daniloalvarado&theme=tokyonight&title=Actividad%20de%20Código"
         width="400px"
       />
     </td>
   </tr>
 </table>
-
 <!------------ END GITHUB METRICS-------------->
-
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!------------ REPOSITORIO-------------->
 <h2>🟢 Mi Repositorio 📂</h2>
 	
