@@ -91,34 +91,34 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!------------GITHUB METRICS-------------->
-<div style="text-align: center; margin-top: 50px;">
+<h2 align="center">📊 GitHub Metrics</h2>
 
-  <h2>📊 GitHub Metrics</h2>
-  
-  <!-- Lenguajes más usados -->
-  <img 
-    src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
-    alt="Lenguajes más usados"
-    style="max-width: 100%; margin: 10px 0;"
-  />
-
-  <!-- Racha -->
-  <img 
-    src="https://streak-stats.demolab.com?user=daniloalvarado&theme=tokyonight&hide_border=true"
-    alt="Racha de contribuciones"
-    style="max-width: 100%; margin: 10px 0;"
-  />
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
-/>
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-timeline?username=daniloalvarado&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=daniloalvarado&theme=cobalt2&show_icons=true&icon_color=fff" />
-<img src="https://metrics.lecoq.io/daniloalvarado?template=classic&config.timezone=America%2FLima" />
-<img src="https://i.imgur.com/8MupZHY.gif" width="100%" />
-
+<table align="center">
+  <tr>
+    <!-- Columna 1 -->
+    <td align="center">
+      <!-- Lenguajes más usados -->
+      <img 
+        src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
+        width="400px"
+      />
+      <br><br>
+       <!-- Repos por lenguaje -->
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
+        width="400px"
+      />
+    </td>
+    <!-- Columna 2 -->
+    <td align="center">
+      <!-- Racha -->
+      <img 
+        src="https://streak-stats.demolab.com?user=daniloalvarado&theme=tokyonight&hide_border=true"
+        width="400px"
+      />
+    </td>
+  </tr>
+</table>
 <!------------ END GITHUB METRICS-------------->
 
 <!------------ REPOSITORIO-------------->
