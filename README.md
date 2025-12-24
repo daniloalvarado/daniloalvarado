@@ -109,26 +109,9 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
     style="max-width: 100%; margin: 10px 0;"
   />
 
-  <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniloalvarado&theme=tokyonight"
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniloalvarado&theme=tokyonight"
-/>
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
 />
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=daniloalvarado&theme=tokyonight"
-  alt="Activity Graph"
-/>
-<img 
-  src="https://komarev.com/ghpvc/?username=daniloalvarado&label=Visitas&color=blue&style=flat"
-/>
-
-
 </div>
 <!------------ END GITHUB METRICS-------------->
 
