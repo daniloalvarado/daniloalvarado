@@ -95,29 +95,32 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 <table align="center">
   <tr>
-    <!-- Columna 1 -->
+    <!-- 1A: Lenguajes más usados -->
     <td align="center">
-      <!-- Lenguajes más usados -->
       <img 
         src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
         width="400px"
       />
-      <br><br>
-		<td align="center">
-      <!-- Racha -->
-      <img 
-        src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true" 
-        width="400px"
-      />
-    <!-- Columna 2 -->
-		<!-- Repos por lenguaje -->
+    </td>
+    <!-- 1B: Repos por lenguaje -->
+    <td align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
         width="400px"
       />
     </td>
-      <br><br>
-      <!-- Activity Graph -->
+  </tr>
+
+  <tr>
+    <!-- 2A: Racha -->
+    <td align="center">
+      <img 
+        src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true"
+        width="400px"
+      />
+    </td>
+    <!-- 2B: Activity Graph -->
+    <td align="center">
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=daniloalvarado&theme=tokyonight"
         width="400px"
@@ -125,6 +128,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
     </td>
   </tr>
 </table>
+
 <!------------ END GITHUB METRICS-------------->
 
 <!------------ REPOSITORIO-------------->
