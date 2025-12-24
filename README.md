@@ -113,9 +113,9 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
     <td align="center">
       <!-- Racha -->
       <img 
-        src="https://streak-stats.demolab.com?user=daniloalvarado&theme=tokyonight&hide_border=true"
-        width="400px"
-      />
+		src="https://github-readme-streak-vercel.vercel.app?user=daniloalvarado&theme=tokyonight&hide_border=true" 
+		width="400px"
+	  />
     </td>
   </tr>
 </table>
