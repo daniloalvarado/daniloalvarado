@@ -100,29 +100,35 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <div>
   <p align="center">
 
-  <a href="https://github.com/daniloalvarado/Prediccion-de-Incendios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniloalvarado&repo=Prediccion-de-Incendios&theme=tokyonight" alt="Prediccion de Incendios" />
-  </a>
+ <a href="https://github.com/daniloalvarado/Prediccion-de-Incendios">
+  <img src="https://github-readme-stats-six-iota-32.vercel.app/api/pin/?username=daniloalvarado&repo=Prediccion-de-Incendios&theme=tokyonight" 
+       alt="Prediccion de Incendios" />
+</a>
 
-  <a href="https://github.com/daniloalvarado/Aplicacion-del-Clima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniloalvarado&repo=Aplicacion-del-Clima&theme=tokyonight" alt="Aplicacion del Clima" />
-  </a>
+<a href="https://github.com/daniloalvarado/Aplicacion-del-Clima">
+  <img src="https://github-readme-stats-six-iota-32.vercel.app/api/pin/?username=daniloalvarado&repo=Aplicacion-del-Clima&theme=tokyonight" 
+       alt="Aplicacion del Clima" />
+</a>
 
-  <a href="https://github.com/daniloalvarado/Diario-IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniloalvarado&repo=Diario-IA&theme=tokyonight" alt="Diario IA" />
-  </a>
+<a href="https://github.com/daniloalvarado/Diario-IA">
+  <img src="https://github-readme-stats-six-iota-32.vercel.app/api/pin/?username=daniloalvarado&repo=Diario-IA&theme=tokyonight" 
+       alt="Diario IA" />
+</a>
 
-  <a href="https://github.com/daniloalvarado/App-Financiera">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniloalvarado&repo=App-Financiera&theme=tokyonight" alt="App Financiera" />
-  </a>
+<a href="https://github.com/daniloalvarado/App-Financiera">
+  <img src="https://github-readme-stats-six-iota-32.vercel.app/api/pin/?username=daniloalvarado&repo=App-Financiera&theme=tokyonight" 
+       alt="App Financiera" />
+</a>
 
-  <a href="https://github.com/daniloalvarado/Team-Sync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniloalvarado&repo=Team-Sync&theme=tokyonight" alt="Team Sync" />
-  </a>
+<a href="https://github.com/daniloalvarado/Team-Sync">
+  <img src="https://github-readme-stats-six-iota-32.vercel.app/api/pin/?username=daniloalvarado&repo=Team-Sync&theme=tokyonight" 
+       alt="Team Sync" />
+</a>
 
-  <a href="https://github.com/daniloalvarado/Sistema-de-Facturacion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniloalvarado&repo=Sistema-de-Facturacion&theme=tokyonight" alt="Sistema de Facturacion" />
-  </a>
+<a href="https://github.com/daniloalvarado/Sistema-de-Facturacion">
+  <img src="https://github-readme-stats-six-iota-32.vercel.app/api/pin/?username=daniloalvarado&repo=Sistema-de-Facturacion&theme=tokyonight" 
+       alt="Sistema de Facturacion" />
+</a>
 
 </p>
 </div>
