@@ -113,6 +113,12 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
 />
 </div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-timeline?username=daniloalvarado&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=daniloalvarado&theme=cobalt2&show_icons=true&icon_color=fff" />
+<img src="https://metrics.lecoq.io/daniloalvarado?template=classic&config.timezone=America%2FLima" />
+<img src="https://i.imgur.com/8MupZHY.gif" width="100%" />
+
 <!------------ END GITHUB METRICS-------------->
 
 <!------------ REPOSITORIO-------------->
