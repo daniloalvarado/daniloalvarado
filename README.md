@@ -112,10 +112,11 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
     <!-- Columna 2 -->
     <td align="center">
       <!-- Racha -->
-      <img 
-		src="https://github-readme-streak-vercel.vercel.app?user=daniloalvarado&theme=tokyonight&hide_border=true" 
-		width="400px"
-	  />
+     <img 
+  src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true" 
+  width="400px"
+/>
+
     </td>
   </tr>
 </table>
