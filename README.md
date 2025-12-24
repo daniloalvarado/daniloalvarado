@@ -94,14 +94,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <div style="text-align: center; margin-top: 50px;">
 
   <h2>📊 GitHub Metrics</h2>
-
-  <!-- Stats generales -->
-  <img 
-    src="https://github-readme-stats-six-iota-32.vercel.app/api?username=daniloalvarado&show_icons=true&theme=tokyonight"
-    alt="Estadísticas de GitHub de Danilo"
-    style="max-width: 100%; margin: 10px 0;"
-  />
-
+  
   <!-- Lenguajes más usados -->
   <img 
     src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
@@ -119,6 +112,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
   <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniloalvarado&theme=tokyonight"
 />
+
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniloalvarado&theme=tokyonight"
 />
