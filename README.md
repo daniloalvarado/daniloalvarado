@@ -107,7 +107,7 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
         width="400px"
       />
     </td>
-    <!-- 1B: Repos por lenguaje (Este funciona bien) -->
+    <!-- 1B: Repos por lenguaje -->
     <td align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
@@ -117,16 +117,17 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
   </tr>
 
   <tr>
-    <!-- 2A: Racha (Este funciona bien) -->
+    <!-- 2A: Racha -->
     <td align="center">
       <img 
         src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true"
         width="400px"
       />
     </td>
+    <!-- 2B: Activity Graph -->
     <td align="center">
       <img 
-        src="https://https://github-readme-activity-graph-danilo.vercel.app//graph?username=daniloalvarado&theme=tokyonight"
+        src="https://github-readme-activity-graph-danilo.vercel.app/graph?username=daniloalvarado&theme=tokyonight"
         width="400px"
       />
     </td>
