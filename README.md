@@ -124,15 +124,11 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
         width="400px"
       />
     </td>
-    <!-- 2B: Activity Graph (DESACTIVADO TEMPORALMENTE POR SERVIDOR CAÍDO) -->
     <td align="center">
-      <!-- 
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=daniloalvarado&theme=tokyonight"
+        src="https://https://github-readme-activity-graph-danilo.vercel.app//graph?username=daniloalvarado&theme=tokyonight"
         width="400px"
       />
-      -->
-      <p style="color:gray; font-size:12px;">Gráfico en mantenimiento</p>
     </td>
   </tr>
 </table>
