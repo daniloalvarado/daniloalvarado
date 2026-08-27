@@ -103,11 +103,11 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
     <!-- 1A: Lenguajes más usados -->
     <td align="center">
       <img 
-        src="https://github-readme-stats-six-iota-32.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
+        src="https://github-readme-statsdanilo.vercel.app/api/top-langs/?username=daniloalvarado&layout=compact&theme=tokyonight"
         width="400px"
       />
     </td>
-    <!-- 1B: Repos por lenguaje -->
+    <!-- 1B: Repos por lenguaje (Este funciona bien) -->
     <td align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniloalvarado&theme=tokyonight"
@@ -117,23 +117,25 @@ HOLA, SOY DANILO ALVARADO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
   </tr>
 
   <tr>
-    <!-- 2A: Racha -->
+    <!-- 2A: Racha (Este funciona bien) -->
     <td align="center">
       <img 
         src="https://github-readme-streak-stats.entelecheia.me?user=daniloalvarado&theme=tokyonight&hide_border=true"
         width="400px"
       />
     </td>
-    <!-- 2B: Activity Graph -->
+    <!-- 2B: Activity Graph (DESACTIVADO TEMPORALMENTE POR SERVIDOR CAÍDO) -->
     <td align="center">
+      <!-- 
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=daniloalvarado&theme=tokyonight"
         width="400px"
       />
+      -->
+      <p style="color:gray; font-size:12px;">Gráfico en mantenimiento</p>
     </td>
   </tr>
 </table>
-
 <!------------ END GITHUB METRICS-------------->
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
